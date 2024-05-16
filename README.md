@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JimmyHe05
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning SQL
+- 👋 Hi, I’m Jimmy He
+- 👀 I’m interested in data or software related position. I have a broad interest, ik.
+- 🌱 I’m currently learning SQL and some other data stuffs.
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me she265@wisc.edu
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Take a guess
 
 <!---
