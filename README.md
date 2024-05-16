@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me she265@wisc.edu
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Take a guess
+- ⚡ Fun fact:
 
 <!---
 JimmyHe05/JimmyHe05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
