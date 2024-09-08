@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jimmy He
-- 👀 I’m interested in data or software related position. I have a broad interest, ik.
+- 👀 I’m interested SWE related position
 - 🌱 I’m currently learning software developer essential skills
 - 💞️ I’m looking to collaborate on anywhere with anyone
 - 📫 How to reach me she265@wisc.edu
