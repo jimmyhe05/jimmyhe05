@@ -18,4 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmyhe05&show_icons=true&locale=en" alt="jimmyhe05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyhe05&" alt="jimmyhe05" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jimmyhe05" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jimmyhe05" alt="GitHub Streak" /></a> -->
