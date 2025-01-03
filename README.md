@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Jimmy." alt="Typing SVG" /></a>
 <h3 align="center">A passionate software developer</h3>
+
 - 🔭 I’m currently working on **my-fitness-collection**
 - 🤝 I’m looking for interesting **open source projects**
 - 👯 I’m open to collaborate with **anyone**
