@@ -23,44 +23,43 @@
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-FF6B6B?style=flat-square&logo=css3&logoColor=white)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
+[![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-FF6B6B?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
 ### Backend Development
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT%20Authentication-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/-OAuth-4285F4?style=flat-square&logo=oauth&logoColor=white)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)](https://restfulapi.net/)
+[![JWT](https://img.shields.io/badge/-JWT%20Authentication-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+[![OAuth](https://img.shields.io/badge/-OAuth-4285F4?style=flat-square&logo=oauth&logoColor=white)](https://oauth.net/)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=flat-square&logo=database&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=flat-square&logo=database&logoColor=white)](https://www.guru99.com/database-design.html)
 
 ### Tools & Cloud
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-326CE5?style=flat-square&logo=github-actions&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/-Agile%2FScrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![CI/CD](https://img.shields.io/badge/-CI%2FCD-326CE5?style=flat-square&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
+[![Agile/Scrum](https://img.shields.io/badge/-Agile%2FScrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ### Data Science & Machine Learning
-![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
+[![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 ## 💼 Professional Experience
 - **Machine Learning Engineer - Research** @ NUU Mobile Sponsored Research (May 2025 - Present)
 - **Full Stack Developer** @ UW-Madison x NUU Mobile Capstone Project (Jan 2025 - May 2025)
