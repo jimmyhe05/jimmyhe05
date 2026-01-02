@@ -3,8 +3,8 @@
 <h3 align="center">Software Engineer | CS @ UW-Madison → MSCS @ Boston University</h3>
 
 ## 👋 About Me
-- **Computer Science** graduate from **University of Wisconsin-Madison**
-- Incoming **Master's in Computer Science** student at **Boston University**
+- Current **Master's Student in Computer Science** at **Boston University**
+- **Computer Science** Alumni from **University of Wisconsin-Madison**
 - Software Engineer specializing in **full-stack development** and **machine learning**
 - Currently conducting **ML research** on customer churn analysis with NUU Mobile
 - Passionate about building scalable web applications and data-driven solutions
