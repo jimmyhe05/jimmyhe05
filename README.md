@@ -6,7 +6,7 @@
 - Current **Master's Student in Computer Science** at **Boston University**
 - **Computer Science** Alumni from **University of Wisconsin-Madison**
 - Software Engineer specializing in **full-stack development** and **machine learning**
-- Currently conducting **ML research** on customer churn analysis with NUU Mobile
+- Currently assisting a **ML research** on customer churn analysis with NUU Mobile
 - Passionate about building scalable web applications and data-driven solutions
 
 ## 🔬 Current Research & Projects
