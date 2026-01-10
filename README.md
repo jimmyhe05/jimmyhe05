@@ -84,3 +84,128 @@
 <div align="center">
   <em>"Building innovative solutions at the intersection of software engineering and data science"</em>
 </div>
+
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&width=520&lines=Hey!+Welcome+to+my+GitHub.;I'm+Jimmy+He." alt="Typing SVG" />
+</a>
+
+<h3 align="center">
+  Software Engineer · Full Stack Developer<br/>
+  CS @ UW–Madison → MSCS @ Boston University
+</h3>
+
+---
+
+## 👋 About Me
+I am a **Master’s student in Computer Science at Boston University** with a strong focus on **software engineering and full-stack development**. I enjoy building clean, reliable systems and turning ideas into production-ready applications.
+
+- 🎓 **MSCS @ Boston University**
+- 🎓 **BS in Computer Science @ University of Wisconsin–Madison**
+- 💻 Interested in **backend systems, full-stack development, and APIs**
+- 📊 Currently working as a **Machine Learning Research Assistant** on a customer churn project
+- 🎯 Actively seeking **Software Engineering Internships / New Grad roles**
+
+---
+
+## ⭐ Featured Projects
+
+### 🧙 Legends: Heroes & Monsters
+**Java | Object-Oriented Design | Game Architecture**
+
+A console-based RPG built with a strong emphasis on **object-oriented design principles** and extensibility.
+
+- Modular class hierarchies for heroes, monsters, and game mechanics
+- Turn-based combat, inventory management, and progression systems
+- Clean architecture with strong separation of concerns
+
+🔗 *Pinned repository*
+
+---
+
+### 📊 Customer Churn Prediction (Research Assistant)
+**Python | Data Analysis | Applied Machine Learning**
+
+A sponsored research project with **NUU Mobile**, where I contribute as a **Machine Learning Research Assistant**.
+
+- Assisted with data preprocessing, feature engineering, and exploratory analysis
+- Supported model experimentation and evaluation under senior researcher guidance
+- Gained exposure to real-world datasets and ML workflows
+- Contributed primarily from a **software and data pipeline perspective**
+
+🔗 *Pinned repository*
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+Python · Java · JavaScript · SQL · HTML · CSS
+
+### Frontend
+React · Responsive Design · REST API Integration
+
+### Backend
+Flask · RESTful APIs · Authentication (JWT, OAuth) · MVC Architecture
+
+### Databases
+PostgreSQL · SQLite · Database Design · Query Optimization
+
+### Tools & Cloud
+Git · Docker · AWS · Google Cloud · CI/CD · Jira · Agile/Scrum
+
+### Data & ML (Foundational)
+pandas · NumPy · scikit-learn · Data Visualization
+
+> 📌 I will be taking a formal **Machine Learning** course in the upcoming semester to strengthen my theoretical foundation.
+
+---
+
+## 💼 Experience
+
+**Machine Learning Research Assistant** — *NUU Mobile Sponsored Research*  
+*May 2025 – Present*  
+- Supported applied ML research through data processing, analysis, and experimentation
+- Collaborated with senior researchers in an academic–industry environment
+
+**Full Stack Developer** — *UW–Madison × NUU Mobile Capstone Project*  
+*Jan 2025 – May 2025*  
+- Built a full-stack web application from requirements to deployment
+- Implemented backend APIs, frontend features, and database integration
+
+**Student Team Lead** — *Rheta’s Market, UW–Madison*  
+*Nov 2021 – May 2025*  
+- Led student teams and coordinated daily operations
+- Developed leadership and communication skills in a fast-paced environment
+
+---
+
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/jimmy-he-badger" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimmyhe05&show_icons=true&theme=github_dark&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyhe05&layout=compact&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyhe05&theme=github-dark-blue" />
+</div>
+
+---
+
+<div align="center">
+  <em>Building reliable, well-designed software systems with a strong engineering foundation</em>
+</div>
