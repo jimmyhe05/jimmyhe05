@@ -120,11 +120,9 @@ A full-stack customer analytics platform developed as part of a **UW–Madison �
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmyhe05&show_icons=true&locale=en&layout=compact" alt="jimmyhe05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmyhe05&show_icons=true&locale=en" alt="jimmyhe05" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyhe05&" alt="jimmyhe05" /></p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jimmyhe05&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jimmyhe05&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jimmyhe05&layout=compact&theme=github_dark)
 
 ---
 
