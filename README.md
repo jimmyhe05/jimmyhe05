@@ -121,6 +121,7 @@ A full-stack customer analytics platform developed as part of a **UW–Madison �
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jimmyhe05&show_icons=true&theme=github_dark)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jimmyhe05&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jimmyhe05&layout=compact&theme=github_dark)
 
