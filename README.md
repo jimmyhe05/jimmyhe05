@@ -31,11 +31,10 @@ I enjoy working across the stack and have experience shipping web apps, APIs, an
 A platform connecting students and employers through role-based dashboards, messaging, and hiring workflows.
 
 Key contributions:
-- Built role-aware navigation and dashboards for students and hiring managers
-- Developed manager dashboard features: applicant tracking, posting management, filtering, and workflow views
-- Implemented messaging and notification systems
-- Contributed to authentication, onboarding flows, routing logic, and automated testing
-- Collaborated in an Agile team using GitHub and feature-branch workflows
+- Implemented role-aware navigation and dashboard UIs for students and hiring managers (Next.js, TypeScript)
+- Built manager features including applicant tracking, posting management, and filtering workflows
+- Implemented messaging, notification systems, and onboarding flows; contributed to authentication and routing logic
+- Wrote automated tests and worked in an Agile, feature-branch workflow
 
 Live demo: <a href="https://se-symporter-clean.vercel.app/">https://se-symporter-clean.vercel.app/</a>
 
@@ -45,23 +44,15 @@ Live demo: <a href="https://se-symporter-clean.vercel.app/">https://se-symporter
 
 **React · Flask · PostgreSQL · Docker**
 
-Industry-sponsored project developed with NUU Mobile to analyze customer behavior and support churn prediction initiatives.
+Capstone project developed in collaboration with NUU Mobile to analyze customer behavior and support churn prediction initiatives.
 
 Key contributions:
-- Built React dashboards and data visualization interfaces
-- Implemented Flask API endpoints and PostgreSQL-backed services
-- Containerized services with Docker and supported deployment testing
-- Worked closely with stakeholders to translate requirements into software
+- Built React dashboards and interactive data visualizations for analytics (React, D3-like libs)
+- Implemented Flask REST APIs and PostgreSQL data services to support analytics workflows
+- Containerized backend and frontend services with Docker for consistent deployment
+- Collaborated with stakeholders to define metrics and deliver iterative demos
 
 Live demo: <a href="https://ml-powered-customer-analytics-platf.vercel.app/">https://ml-powered-customer-analytics-platf.vercel.app/</a>
-
----
-
-### Customer Churn Research
-
-**Python · Pandas · Scikit-Learn · Data Analysis**
-
-Research project analyzing drivers of customer churn using mobile usage and engagement data. I built reproducible pipelines, evaluated models, and turned findings into actionable insights for stakeholders.
 
 ---
 
@@ -92,18 +83,18 @@ A console-based RPG focused on clean OOP design and extensible architecture. Imp
 ## Experience
 
 ### Machine Learning Research Assistant
-**NUU Mobile Sponsored Research** | May 2025 – Present
+**NUU Mobile Research** | May 2025 – Present
 
-- Built Python data-processing pipelines and conducted feature engineering
-- Ran experiments to evaluate churn prediction models and produced visualizations to summarize results
-- Wrote reproducible notebooks and analysis reports for stakeholders
+- Built reproducible Python data-processing pipelines and performed feature engineering on mobile user data
+- Designed and executed experiments to evaluate churn prediction models; summarized results with visualizations and written reports
+- Maintained reproducible notebooks and documentation to support stakeholder review and handoff
 
 ### Full Stack Developer
 **UW–Madison × NUU Mobile Capstone** | Jan 2025 – May 2025
 
-- Built full-stack analytics software using React, Flask, and PostgreSQL
-- Implemented frontend dashboards and backend APIs; containerized services with Docker
-- Coordinated with stakeholders and delivered iterative demos
+- Developed full-stack analytics platform with React frontend and Flask backend backed by PostgreSQL
+- Implemented dashboard visualizations, REST APIs, and Docker-based deployment workflows
+- Coordinated with stakeholders to translate requirements and delivered iterative demos
 
 ### Student Team Lead
 **Rheta's Market, UW–Madison** | Nov 2021 – May 2025
@@ -115,7 +106,7 @@ A console-based RPG focused on clean OOP design and extensible architecture. Imp
 
 ## Connect
 
-<a href="https://linkedin.com/in/jimmy-he-badger">LinkedIn</a>
+<a href="https://linkedin.com/in/jimmyhe05">LinkedIn</a>
 
 - Resume (download): <a href="/public/jimmy_he_resume.pdf">Download Resume (PDF)</a>
 - Email: <a href="mailto:jimmyhe05@gmail.com">jimmyhe05@gmail.com</a>
