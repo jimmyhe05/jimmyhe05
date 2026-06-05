@@ -11,9 +11,9 @@
 
 ## About Me
 
-I'm a Master's student in Computer Science at Boston University with interests in software engineering, backend systems, and full-stack development.
+I'm Jimmy — a Master's student in Computer Science at Boston University and a software engineer who enjoys turning ideas into well-crafted products. I focus on building full-stack applications that balance polished user experiences with reliable, maintainable backend systems. I care about clean code, automated tests, and collaborating with product-minded teams to deliver value quickly.
 
-I enjoy building applications that combine clean user experiences with scalable backend architecture. My recent work includes full-stack web applications, customer analytics platforms, and machine learning research projects in collaboration with industry partners.
+I enjoy working across the stack and have experience shipping web apps, APIs, and data analysis tooling. I'm actively seeking Software Engineering Internship opportunities for Summer/Fall 2026.
 
 - MSCS, Boston University
 - BS Computer Science & Data Science, UW–Madison
@@ -31,11 +31,13 @@ I enjoy building applications that combine clean user experiences with scalable 
 A platform connecting students and employers through role-based dashboards, messaging, and hiring workflows.
 
 Key contributions:
-- Built role-aware navigation and dashboard experiences for students and hiring managers
-- Developed manager dashboard features including applicant tracking, posting management, filtering, and workflow views
-- Implemented messaging-related functionality and notification systems
+- Built role-aware navigation and dashboards for students and hiring managers
+- Developed manager dashboard features: applicant tracking, posting management, filtering, and workflow views
+- Implemented messaging and notification systems
 - Contributed to authentication, onboarding flows, routing logic, and automated testing
-- Worked in a collaborative Agile team using GitHub and feature-based development workflows
+- Collaborated in an Agile team using GitHub and feature-branch workflows
+
+Live demo: <a href="https://se-symporter-clean.vercel.app/">https://se-symporter-clean.vercel.app/</a>
 
 ---
 
@@ -46,11 +48,12 @@ Key contributions:
 Industry-sponsored project developed with NUU Mobile to analyze customer behavior and support churn prediction initiatives.
 
 Key contributions:
-- Developed React dashboards and data visualization interfaces for customer analytics
-- Built Flask API endpoints and integrated PostgreSQL-backed data services
-- Containerized application components using Docker
-- Collaborated directly with stakeholders to translate business requirements into software features
-- Worked in an Agile development environment using GitHub and Jira
+- Built React dashboards and data visualization interfaces
+- Implemented Flask API endpoints and PostgreSQL-backed services
+- Containerized services with Docker and supported deployment testing
+- Worked closely with stakeholders to translate requirements into software
+
+Live demo: <a href="https://ml-powered-customer-analytics-platf.vercel.app/">https://ml-powered-customer-analytics-platf.vercel.app/</a>
 
 ---
 
@@ -58,13 +61,7 @@ Key contributions:
 
 **Python · Pandas · Scikit-Learn · Data Analysis**
 
-Research project focused on identifying drivers of customer churn using mobile usage and engagement data.
-
-Highlights:
-- Built reproducible data analysis and preprocessing pipelines
-- Analyzed customer behavior patterns across thousands of records
-- Evaluated machine learning models for churn prediction
-- Produced visualizations and reports to support research findings
+Research project analyzing drivers of customer churn using mobile usage and engagement data. I built reproducible pipelines, evaluated models, and turned findings into actionable insights for stakeholders.
 
 ---
 
@@ -72,26 +69,21 @@ Highlights:
 
 **Java · Object-Oriented Design**
 
-Console-based RPG emphasizing object-oriented design and software architecture.
-
-Highlights:
-- Designed extensible class hierarchies for heroes, monsters, and game systems
-- Implemented combat, progression, inventory, and marketplace mechanics
-- Applied core OOP principles including inheritance, polymorphism, and abstraction
+A console-based RPG focused on clean OOP design and extensible architecture. Implemented combat, progression, inventory, and marketplace systems.
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, Java, JavaScript, SQL, HTML, CSS
+**Languages:** Python, Java, JavaScript, TypeScript, SQL, HTML, CSS
 
-**Frontend:** React, Next.js, TypeScript
+**Frontend:** React, Next.js, Tailwind CSS
 
-**Backend:** Flask, REST APIs, Authentication, JWT
+**Backend:** Flask, REST APIs, Authentication, JWT, Node.js
 
 **Databases:** PostgreSQL, SQLite
 
-**Tools:** Git, Docker, AWS, Jira, Linux
+**Tools & Infrastructure:** Git, Docker, AWS, Jira, Linux
 
 **Data & ML:** Pandas, NumPy, Matplotlib, Scikit-Learn
 
@@ -102,32 +94,31 @@ Highlights:
 ### Machine Learning Research Assistant
 **NUU Mobile Sponsored Research** | May 2025 – Present
 
-- Developed Python-based data analysis and preprocessing pipelines for customer churn research
-- Conducted exploratory data analysis and feature engineering on mobile user datasets
-- Supported machine learning experimentation and evaluation workflows
-- Generated visualizations and reports to communicate research findings
+- Built Python data-processing pipelines and conducted feature engineering
+- Ran experiments to evaluate churn prediction models and produced visualizations to summarize results
+- Wrote reproducible notebooks and analysis reports for stakeholders
 
 ### Full Stack Developer
 **UW–Madison × NUU Mobile Capstone** | Jan 2025 – May 2025
 
-- Developed full-stack customer analytics software using React, Flask, and PostgreSQL
-- Built frontend dashboards and backend APIs supporting business analytics workflows
-- Collaborated with stakeholders and team members throughout the software development lifecycle
+- Built full-stack analytics software using React, Flask, and PostgreSQL
+- Implemented frontend dashboards and backend APIs; containerized services with Docker
+- Coordinated with stakeholders and delivered iterative demos
 
 ### Student Team Lead
 **Rheta's Market, UW–Madison** | Nov 2021 – May 2025
 
-- Led student teams in a fast-paced operational environment
-- Coordinated daily workflows and supported training of new team members
-- Developed leadership, communication, and problem-solving skills
+- Led student teams in daily operations and onboarding
+- Improved workflows and trained new hires
 
 ---
 
 ## Connect
 
-<a href="https://linkedin.com/in/jimmy-he-badger">
-  LinkedIn
-</a>
+<a href="https://linkedin.com/in/jimmy-he-badger">LinkedIn</a>
+
+- Resume (download): <a href="/public/jimmy_he_resume.pdf">Download Resume (PDF)</a>
+- Email: <a href="mailto:jimmyhe05@gmail.com">jimmyhe05@gmail.com</a>
 
 ---
 
@@ -135,6 +126,10 @@ Highlights:
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jimmyhe05&show_icons=true&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jimmyhe05&theme=github_dark)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=jimmyhe05&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jimmyhe05&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jimmyhe05&layout=compact&theme=github_dark)
+
+---
+
+If you'd like to chat about internships, collaboration, or a code review — feel free to reach out on LinkedIn or open an issue here. I try to respond within a few business days.
