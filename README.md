@@ -108,7 +108,7 @@ A console-based RPG focused on clean OOP design and extensible architecture. Imp
 
 <a href="https://linkedin.com/in/jimmyhe05">LinkedIn</a>
 
-- Resume (download): <a href="jimmy_he_resume.pdf">Download Resume (PDF)</a>
+- Resume: <a href="jimmy_he_resume.pdf">Resume</a>
 - Email: <a href="mailto:jimmyhe05@gmail.com">jimmyhe05@gmail.com</a>
 
 ---
