@@ -18,7 +18,7 @@
 ## 🚀 Flagship Projects
 
 ### 1. [Cal.com (Open Source Contributions)](https://github.com/calcom/cal.diy)
-*Contributions to the 30k+ star open-source scheduling engine.*
+*Contributions to the 45k+ star open-source scheduling engine.*
 - **Stack:** TypeScript · Next.js · Prisma ORM · PostgreSQL · Vitest
 - **Key Focus:** Fixed race conditions in the scheduling engine using database row-level locking (`FOR UPDATE`); refactored Prisma queries for transactional clients; resolved payment locale calculations for group bookings.
 - **Evidence:** [My Pull Requests](https://github.com/calcom/cal.diy/pulls?q=is%3Apr+author%3Ajimmyhe05)
