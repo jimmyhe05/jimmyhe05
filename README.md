@@ -1,125 +1,69 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&width=520&lines=Hey!+Welcome+to+my+GitHub.;I'm+Jimmy+He." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&width=520&lines=Hey!+Welcome+to+my+GitHub.;I'm+Jimmy+He." alt="Typing SVG" />
 </a>
 
 <h3 align="center">
-  Software Engineer · Full Stack Developer<br/>
+  Software Engineer · Full Stack & Backend Developer<br/>
   MSCS @ Boston University | BS CS & Data Science @ UW–Madison
 </h3>
 
----
-
-## About Me
-
-I'm Jimmy — a Master's student in Computer Science at Boston University and a software engineer who enjoys turning ideas into well-crafted products. I focus on building full-stack applications that balance polished user experiences with reliable, maintainable backend systems. I care about clean code, automated tests, and collaborating with product-minded teams to deliver value quickly.
-
-I enjoy working across the stack and have experience shipping web apps, APIs, and data analysis tooling. I'm actively seeking Software Engineering Internship opportunities for Summer/Fall 2026.
-
-- MSCS, Boston University
-- BS Computer Science & Data Science, UW–Madison
-- Full Stack Developer on industry-sponsored software projects
-- Machine Learning Research Assistant at NUU Mobile
-- Seeking Software Engineering Internship opportunities for Summer/Fall 2026
+<p align="center">
+  <a href="https://linkedin.com/in/jimmyhe05">LinkedIn</a> · 
+  <a href="mailto:jimmyhe05@gmail.com">Email</a> · 
+  <a href="https://jimmyhe05.com">Portfolio</a>
+</p>
 
 ---
 
-## Featured Projects
+## 🚀 Flagship Projects
 
-### Symporter
-**Next.js · TypeScript · PostgreSQL · Prisma · Authentication**
+### 1. [Cal.com (Open Source Contributions)](https://github.com/calcom/cal.diy)
+*Contributions to the 30k+ star open-source scheduling engine.*
+- **Stack:** TypeScript · Next.js · Prisma ORM · PostgreSQL · Vitest
+- **Key Focus:** Fixed race conditions in the scheduling engine using database row-level locking (`FOR UPDATE`); refactored Prisma queries for transactional clients; resolved payment locale calculations for group bookings.
+- **Evidence:** [My Pull Requests](https://github.com/calcom/cal.diy/pulls?q=is%3Apr+author%3Ajimmyhe05)
 
-A platform connecting students and employers through role-based dashboards, messaging, and hiring workflows.
+### 2. [Karaoke Reservation & Operations System](https://github.com/jimmyhe05/karaoke-reservation-operations-system)
+*A production-grade booking app replacing manual workflows at a high-volume venue.*
+- **Stack:** FastAPI · Python · PostgreSQL · Server-Sent Events (SSE) · Docker · Pytest
+- **Key Focus:** Prevented scheduling conflicts using transactional row locking; engineered a custom SQLAlchemy database compatibility layer allowing SQLite local testing and PostgreSQL production scaling; built real-time staff dashboard alerts via SSE.
+- **Links:** [Live Demo](https://karaoke-reservation-system.onrender.com/) · [Code Repository](https://github.com/jimmyhe05/karaoke-reservation-operations-system)
 
-Key contributions:
-- Implemented role-aware navigation and dashboard UIs for students and hiring managers (Next.js, TypeScript)
-- Built manager features including applicant tracking, posting management, and filtering workflows
-- Implemented messaging, notification systems, and onboarding flows; contributed to authentication and routing logic
-- Wrote automated tests and worked in an Agile, feature-branch workflow
-
-Live demo: <a href="https://se-symporter-clean.vercel.app/">https://se-symporter-clean.vercel.app/</a>
-
----
-
-### Customer Analytics Platform (NUU Mobile Capstone)
-
-**React · Flask · PostgreSQL · Docker**
-
-Capstone project developed in collaboration with NUU Mobile to analyze customer behavior and support churn prediction initiatives.
-
-Key contributions:
-- Built React dashboards and interactive data visualizations for analytics (React, D3-like libs)
-- Implemented Flask REST APIs and PostgreSQL data services to support analytics workflows
-- Containerized backend and frontend services with Docker for consistent deployment
-- Collaborated with stakeholders to define metrics and deliver iterative demos
-
-Live demo: <a href="https://ml-powered-customer-analytics-platf.vercel.app/">https://ml-powered-customer-analytics-platf.vercel.app/</a>
+### 3. [Symporter Research Matching Platform](https://se-symporter-clean.vercel.app/)
+*Incubated client project built through BU Spark! connecting students and researchers.*
+- **Stack:** Next.js · TypeScript · Prisma ORM · PostgreSQL · Clerk Auth · GitHub Actions
+- **Key Focus:** Implemented role-based access control (RBAC), Next.js middleware routing, and Prisma data layers; configured GitHub Actions CI/CD to run Jest test suites on every pull request.
+- **Links:** [Live Demo](https://se-symporter-clean.vercel.app/)
 
 ---
 
-### Legends: Heroes & Monsters
+## 🛠️ Technical Stack
 
-**Java · Object-Oriented Design**
-
-A console-based RPG focused on clean OOP design and extensible architecture. Implemented combat, progression, inventory, and marketplace systems.
-
----
-
-## Technical Skills
-
-**Languages:** Python, Java, JavaScript, TypeScript, SQL, HTML, CSS
-
-**Frontend:** React, Next.js, Tailwind CSS
-
-**Backend:** Flask, REST APIs, Authentication, JWT, Node.js
-
-**Databases:** PostgreSQL, SQLite
-
-**Tools & Infrastructure:** Git, Docker, AWS, Jira, Linux
-
-**Data & ML:** Pandas, NumPy, Matplotlib, Scikit-Learn
+- **Languages:** TypeScript, JavaScript, Python, Java, C, SQL, HTML/CSS
+- **Frameworks/Tools:** Next.js, React, FastAPI, Flask, Prisma ORM, PostgreSQL, Docker, GitHub Actions, Pytest, Jest
 
 ---
 
-## Experience
+## 📊 GitHub Analytics
 
-### Machine Learning Research Assistant
-**NUU Mobile Research** | May 2025 – Present
-
-- Built reproducible Python data-processing pipelines and performed feature engineering on mobile user data
-- Designed and executed experiments to evaluate churn prediction models; summarized results with visualizations and written reports
-- Maintained reproducible notebooks and documentation to support stakeholder review and handoff
-
-### Full Stack Developer
-**UW–Madison × NUU Mobile Capstone** | Jan 2025 – May 2025
-
-- Developed full-stack analytics platform with React frontend and Flask backend backed by PostgreSQL
-- Implemented dashboard visualizations, REST APIs, and Docker-based deployment workflows
-- Coordinated with stakeholders to translate requirements and delivered iterative demos
-
-### Student Team Lead
-**Rheta's Market, UW–Madison** | Nov 2021 – May 2025
-
-- Led student teams in daily operations and onboarding
-- Improved workflows and trained new hires
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=jimmyhe05&show_icons=true&theme=github_dark&hide_border=true" width="100%"/>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jimmyhe05&layout=compact&theme=github_dark&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jimmyhe05&theme=github_dark&hide_border=true" width="60%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Connect
-
-- <a href="https://linkedin.com/in/jimmyhe05">LinkedIn</a>
-- <a href="jimmy_he_resume.pdf">Resume</a>
-- <a href="mailto:jimmyhe05@gmail.com">jimmyhe05@gmail.com</a>
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jimmyhe05&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=jimmyhe05&theme=github_dark)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jimmyhe05&layout=compact&theme=github_dark)
-
----
-
-If you'd like to chat about internships, collaboration, or a code review — feel free to reach out on LinkedIn or open an issue here. I try to respond within a few business days.
+<p align="center">
+  Interested in summer/fall 2026 SWE internships or collaborating on open source? Let's connect on <a href="https://linkedin.com/in/jimmyhe05">LinkedIn</a>!
+</p>
