@@ -63,7 +63,3 @@
 </table>
 
 ---
-
-<p align="center">
-  Interested in summer/fall 2026 SWE internships or collaborating on open source? Let's connect on <a href="https://linkedin.com/in/jimmyhe05">LinkedIn</a>!
-</p>
