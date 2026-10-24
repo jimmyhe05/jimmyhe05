@@ -48,7 +48,7 @@ Turn-based Java RPG built around object-oriented design: Strategy for monster ta
 
 ## Skills
 
-**Languages:** Python, TypeScript, JavaScript, Java, SQL, HTML/CSS
-**Frameworks:** React, Next.js, FastAPI, Flask
-**Data and tools:** PostgreSQL, SQLite, Prisma, Docker, Git, GitHub Actions, Google Cloud Platform
-**Testing:** pytest, Jest, React Testing Library
+- **Languages:** Python, TypeScript, JavaScript, Java, SQL, HTML/CSS
+- **Frameworks:** React, Next.js, FastAPI, Flask
+- **Data and tools:** PostgreSQL, SQLite, Prisma, Docker, Git, GitHub Actions, Google Cloud Platform
+- **Testing:** pytest, Jest, React Testing Library
