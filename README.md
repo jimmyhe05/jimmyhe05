@@ -1,4 +1,6 @@
-# Jimmy He
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&width=520&lines=Hey!+Welcome+to+my+GitHub.;I'm+Jimmy+He." alt="Hey! Welcome to my GitHub. I'm Jimmy He." />
+</a>
 
 Software engineer focused on full-stack and backend web development. M.S. in Computer Science at Boston University (December 2026); B.S. in Computer Science and Data Science from UW-Madison.
 
@@ -52,3 +54,23 @@ Turn-based Java RPG built around object-oriented design: Strategy for monster ta
 - **Frameworks:** React, Next.js, FastAPI, Flask
 - **Data and tools:** PostgreSQL, SQLite, Prisma, Docker, Git, GitHub Actions, Google Cloud Platform
 - **Testing:** pytest, Jest, React Testing Library
+
+---
+
+## GitHub Stats
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=jimmyhe05&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" width="100%" alt="GitHub stats"/>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jimmyhe05&layout=compact&theme=github_dark&hide_border=true" width="100%" alt="Top languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jimmyhe05&theme=github_dark&hide_border=true" width="60%" alt="Contribution streak"/>
+    </td>
+  </tr>
+</table>
